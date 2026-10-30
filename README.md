@@ -73,6 +73,4 @@ JGB37-520 12 V gear motor with Hall encoder, Arduino Uno R3, TB6612FNG driver, I
 - S. Mowlavi, S. Nabi, *Optimal control of PDEs using physics-informed neural networks*, J. Comput. Phys. 473 (2023) 111731.
 - *Comparison of Deep Learning and Deterministic Algorithms for Control Modeling*, Sensors (2022), DOI: 10.3390/s22176362.
 
-## Notes
 
-[Edit this line to say how you used AI assistance, for example for derivations or scripts, and that you checked the results yourself.]
