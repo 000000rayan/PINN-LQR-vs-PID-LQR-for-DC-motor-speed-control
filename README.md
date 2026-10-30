@@ -1,0 +1,1 @@
+# PINN-LQR-vs-PID-LQR-for-DC-motor-speed-control
